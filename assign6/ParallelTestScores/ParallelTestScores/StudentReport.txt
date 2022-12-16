@@ -1,0 +1,49 @@
+Student Number : 1
+Student Name : Deepika Padukone
+Amount Correct : 10
+Percent Score : 100
+Incorrect Answers : None
+Student Passed.
+
+Student Number : 2
+Student Name : Ayano Omoto
+Amount Correct : 3
+Percent Score : 30
+Incorrect Answers : 2 (A/B) 3 (A/C) 4 (A/D) 6 (A/B) 7 (A/C) 8 (A/D) 10 (A/B)
+Student not passed.
+
+Student Number : 3
+Student Name : Yuka Kashino
+Amount Correct : 3
+Percent Score : 30
+Incorrect Answers : 1 (B/A) 3 (B/C) 4 (B/D) 5 (B/A) 7 (B/C) 8 (B/D) 9 (B/A)
+Student not passed.
+
+Student Number : 4
+Student Name : Ayaka Nishiwaki
+Amount Correct : 3
+Percent Score : 30
+Incorrect Answers : 1 (B/A) 3 (B/C) 4 (B/D) 5 (B/A) 7 (B/C) 8 (B/D) 9 (B/A)
+Student not passed.
+
+Student Number : 5
+Student Name : Marshal Bruce Matthers III
+Amount Correct : 2
+Percent Score : 20
+Incorrect Answers : 1 (C/A) 2 (C/B) 4 (C/D) 5 (C/A) 6 (C/B) 8 (C/D) 9 (C/A) 10 (C/B)
+Student not passed.
+
+Student Number : 6
+Student Name : Aishwarya Rai
+Amount Correct : 2
+Percent Score : 20
+Incorrect Answers : 1 (D/A) 2 (D/B) 3 (D/C) 5 (D/A) 6 (D/B) 7 (D/C) 9 (D/A) 10 (D/B)
+Student not passed.
+
+Student Number : 7
+Student Name : Aubrey Graham
+Amount Correct : 7
+Percent Score : 70
+Incorrect Answers : 1 (B/A) 5 (C/A) 8 (A/D)
+Student Passed.
+
